@@ -1,0 +1,83 @@
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.AssemblyReference.cache
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\MainWindow.g.cs
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\App.g.cs
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор_MarkupCompile.cache
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор_MarkupCompile.lref
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.exe.config
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.exe
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.pdb
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\System.Drawing.Common.xml
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\MainWindow.baml
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.g.resources
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ_Фоторедактор.Properties.Resources.resources
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.GenerateResource.cache
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.CoreCompileInputs.cache
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.CopyComplete
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.exe
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.pdb
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\Crop.g.cs
+C:\Users\Ляля Колоббок\source\repos\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\Crop.baml
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.exe.config
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.AssemblyReference.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\Crop.g.cs
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\MainWindow.g.cs
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\App.g.cs
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор_MarkupCompile.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор_MarkupCompile.lref
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\Crop.baml
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\MainWindow.baml
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.g.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ_Фоторедактор.Properties.Resources.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.GenerateResource.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.CopyComplete
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\ВПФ Фоторедактор\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.pdb
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.exe.config
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.exe
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\ВПФ Фоторедактор.pdb
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Drawing.Common.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Drawing.Common.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.AssemblyReference.cache
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\Crop.g.cs
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\MainWindow.g.cs
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\App.g.cs
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор_MarkupCompile.cache
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор_MarkupCompile.lref
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\Crop.baml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\MainWindow.baml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.g.resources
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ_Фоторедактор.Properties.Resources.resources
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.GenerateResource.cache
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.CoreCompileInputs.cache
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.csproj.CopyComplete
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.exe
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\ВПФ Фоторедактор.pdb
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\Рисование.g.cs
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\Рисование.baml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\Collages.g.cs
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\obj\Debug\Collages.baml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Buffers.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Memory.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Text.Json.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.ValueTuple.dll
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Buffers.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Memory.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Text.Json.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ляля Колоббок\Desktop\ВПФ Фоторедактор_checkDraw\ВПФ Фоторедактор\bin\Debug\System.ValueTuple.xml

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ВПФ Фоторедактор", "ВПФ Фоторедактор\ВПФ Фоторедактор.csproj", "{F5EADDC4-00D7-4781-BC9C-E8C849C32350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{8833F9E1-B1D6-4113-80BB-E8F1C74AB0B5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F5EADDC4-00D7-4781-BC9C-E8C849C32350} = {F5EADDC4-00D7-4781-BC9C-E8C849C32350}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EADDC4-00D7-4781-BC9C-E8C849C32350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EADDC4-00D7-4781-BC9C-E8C849C32350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EADDC4-00D7-4781-BC9C-E8C849C32350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EADDC4-00D7-4781-BC9C-E8C849C32350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8833F9E1-B1D6-4113-80BB-E8F1C74AB0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8833F9E1-B1D6-4113-80BB-E8F1C74AB0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8833F9E1-B1D6-4113-80BB-E8F1C74AB0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8833F9E1-B1D6-4113-80BB-E8F1C74AB0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {253FD96F-A4F8-48DA-8689-18F2D1C1E12C}
+	EndGlobalSection
+EndGlobal

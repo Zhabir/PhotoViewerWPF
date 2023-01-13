@@ -102,7 +102,7 @@ namespace ВПФ_Фоторедактор
         string nameOfDirectory()
         {
             string name = System.AppDomain.CurrentDomain.BaseDirectory;
-            string directory = "ВПФ Фоторедактор_checkDraw";
+            string directory = "PhotoViewerWPF-main";
             int indexOfDirectory = name.IndexOf(directory);
             int size = directory.Length;
             name = name.Substring(0, indexOfDirectory + size);
@@ -118,6 +118,11 @@ namespace ВПФ_Фоторедактор
             if (textBoxX.Text == "" || textBoxY.Text == "")
             {
                 MessageBox.Show("Enter coordinates!");
+                return;
+            }
+            if(Convert.ToInt32(textBoxX.Text) > ImageList.bitmaps[ImageList.actualIndex].Width || Convert.ToInt32(textBoxY.Text) > ImageList.bitmaps[ImageList.actualIndex].Height)
+            {
+                MessageBox.Show("Please, enter allowed coordinates");
                 return;
             }
             var visual = new DrawingVisual();
@@ -149,7 +154,7 @@ namespace ВПФ_Фоторедактор
             rtb.Render(r);
 
             BmpBitmapEncoder encoder = new BmpBitmapEncoder();
-            encoder.Frames.Add(BitmapFrame.Create(rtb));
+            encoder.Frames.Add(BitmapFrame.Create(rtb)); ImageList.indeSave++;
             FileStream fs = File.Open(nameOfDirectory() + @"\crop add\lol" + $"{ImageList.indeSave}.png", FileMode.Create);
             encoder.Save(fs);
             fs.Close();

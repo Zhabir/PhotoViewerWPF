@@ -8,7 +8,7 @@
         Title="Collages" Height="837" Width="1147" ResizeMode="NoResize" WindowState="Maximized"
     WindowStyle="None">
     <Grid Margin="0,0,10,0">
-        <Button Name="buttonExport" Content="Export" HorizontalAlignment="Right" VerticalAlignment="Top" 
+        <Button Name="buttonExport" Content="Load" HorizontalAlignment="Right" VerticalAlignment="Top" 
                 Padding="20,5" Margin="10,30,10,10" Height="28" Width="120" Click="buttonExport_Click"/>
         <Button Name="button" Content="See samples" HorizontalAlignment="Right" VerticalAlignment="Top" 
                 Padding="20,5" Margin="10,90,10,10" Height="28" Width="120" Click="buttonSamples_Click"/>

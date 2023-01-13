@@ -101,7 +101,7 @@ namespace ВПФ_Фоторедактор
         string nameOfDirectory()
         {
             string name = System.AppDomain.CurrentDomain.BaseDirectory;
-            string directory = "ВПФ Фоторедактор_checkDraw";
+            string directory = "PhotoViewerWPF-main";
             int indexOfDirectory = name.IndexOf(directory);
             int size = directory.Length;
             name = name.Substring(0, indexOfDirectory + size);
@@ -157,6 +157,7 @@ namespace ВПФ_Фоторедактор
             if (ofd.ShowDialog() == true)
             {
                 ImageList.nameImage = ofd.FileName;
+                if (ofd.FileName == nameOfDirectory() + @"\crop add\lol" + $"{ImageList.indeSave}.png") ImageList.indeSave++;
                 ImageList.bitmap = new Bitmap(ofd.FileName);
                 //this.pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
 
@@ -397,7 +398,8 @@ namespace ВПФ_Фоторедактор
         
         private void CropButton_Click(object sender, RoutedEventArgs e)
         {
-            if(textBoxWidth.Text=="" || textBoxHeight.Text == "")
+            if (ImageList.bitmaps.Count == 0) return;
+            if (textBoxWidth.Text=="" || textBoxHeight.Text == "")
             {
                 MessageBox.Show("Plesae, fill fields");
             }
@@ -471,6 +473,7 @@ namespace ВПФ_Фоторедактор
 
         private void DrawButton_Click(object sender, RoutedEventArgs e)
         {
+            if (ImageList.bitmaps.Count == 0) return;
             Рисование a = new Рисование();
             a.ShowDialog();
         }
@@ -507,7 +510,7 @@ namespace ВПФ_Фоторедактор
 
         private void AddText_Click(object sender, RoutedEventArgs e)
         {
-            
+            if (ImageList.bitmaps.Count == 0) return;
             Crop a = new Crop();
             a.ShowDialog();
 
@@ -535,6 +538,7 @@ namespace ВПФ_Фоторедактор
 
         private void buttonSave_Click(object sender, RoutedEventArgs e)
         {
+            if (ImageList.bitmaps.Count == 0) return;
             SaveFileDialog sfd = new SaveFileDialog();
             sfd.Filter = "Image files(*.jpg) | *.jpg";
             Grid r = new Grid();

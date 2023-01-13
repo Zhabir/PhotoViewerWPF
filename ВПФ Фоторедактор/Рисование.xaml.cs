@@ -26,12 +26,16 @@ namespace ВПФ_Фоторедактор
         public Рисование()
         {
             InitializeComponent();
-            image1.Width = ImageList.bitmaps[ImageList.actualIndex].Width;
-            image1.Height = ImageList.bitmaps[ImageList.actualIndex].Height;
-            inkcanvas1.Height = image1.Height;
-            inkcanvas1.Width = image1.Width;
-            image1.Source = Imaging.CreateBitmapSourceFromHBitmap(ImageList.bitmaps[ImageList.actualIndex].GetHbitmap(), IntPtr.Zero, Int32Rect.Empty, BitmapSizeOptions.FromEmptyOptions());
-            image1.Source = BitmapToSource(MainWindow.RotateImage(ImageList.bitmaps[ImageList.actualIndex], ImageList.anglesActual[ImageList.actualIndex]));
+            if(ImageList.bitmaps.Count!=0)
+            {
+                image1.Width = ImageList.bitmaps[ImageList.actualIndex].Width;
+                image1.Height = ImageList.bitmaps[ImageList.actualIndex].Height;
+                inkcanvas1.Height = image1.Height;
+                inkcanvas1.Width = image1.Width;
+                image1.Source = Imaging.CreateBitmapSourceFromHBitmap(ImageList.bitmaps[ImageList.actualIndex].GetHbitmap(), IntPtr.Zero, Int32Rect.Empty, BitmapSizeOptions.FromEmptyOptions());
+                image1.Source = BitmapToSource(MainWindow.RotateImage(ImageList.bitmaps[ImageList.actualIndex], ImageList.anglesActual[ImageList.actualIndex]));
+            }
+            
         }
         private BitmapImage BitmapToSource(Bitmap src)
         {

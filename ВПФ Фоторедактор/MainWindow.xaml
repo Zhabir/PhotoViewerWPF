@@ -52,7 +52,7 @@
             <Label Content="Rotation" FontSize="14" Margin="0,20,0,0"/>
             <Button Name="RotateBtn" Content="Rotate on 90°" HorizontalAlignment="Left" Padding="20,5" Margin="10,5,0,0" Click="RotateBtn_Click"/>
             <Label Content="Export edited image" FontSize="14" Margin="0,20,0,0"/>
-            <Button Name="ExportBtn" Content="Export" HorizontalAlignment="Left" Padding="20,5" Margin="10,0,0,0" Click="ExportBtn_Click" Height="28"/>
+            <Button Name="ExportBtn" Content="Load" HorizontalAlignment="Left" Padding="20,5" Margin="10,0,0,0" Click="ExportBtn_Click" Height="28"/>
             <Button Name="LeftButton" Content="&lt;" HorizontalAlignment="Left" Padding="20,5" Margin="10,10,10,10" Click="LeftButton_Click" Height="28" Width="51"/>
             <Button Name="RightButton" Content="&gt;" HorizontalAlignment="Left" Padding="20,5" Margin="70,-50,0,0" Click="RightButton_Click" Height="28" Width="51"/>
             <Button Name="CropButton" Content="Crop" HorizontalAlignment="Left" Padding="20,5" Margin="10,10,10,10" Click="CropButton_Click" Height="28" Width="79"/>
